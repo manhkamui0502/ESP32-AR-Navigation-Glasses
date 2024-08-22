@@ -9,7 +9,7 @@
 #include <components/lv_fs_littlefs.h>
 
 /* DEFINES*/
-#define accessToken "access_token=pk.eyJ1IjoibWFuaGthbXVpMDUwMiIsImEiOiJjbHNid2R6YWQwZTloMnZsNTBxeG16Y2VnIn0.tnwgb_-j7RK3xU5KHAELeQ&attribution=false&logo=false"
+#define accessToken "access_token="
 #define mapStyle "https://api.mapbox.com/styles/v1/manhkamui0502/cltgjsc1c009i01qp24nyd3or/static/url-https:%2F%2Fi.postimg.cc%2FY9yMFxKy%2Foroginal-g.png"
 #define SERVICE_UUID "DD3F0AD1-6239-4E1F-81F1-91F6C9F01D86"
 #define WRITE_CHAR_UUID "DD3F0AD1-6239-4E1F-81F1-91F6C9F01D86"
